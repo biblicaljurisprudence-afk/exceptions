@@ -3,4 +3,6 @@ angelstudios.com
 primevideo.com
 www.primevideo.com
 amazonvideo.com
-
+aiv-cdn.net
+pv-cdn.net
+aiv-delivery.net
